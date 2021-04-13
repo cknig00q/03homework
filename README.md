@@ -1,2 +1,3 @@
 # 03homework
 Password Generator
+A simple password generator that: Upon clicking generate password, will direct the user through a series of prompts to determine which criteria to include in the random password. The user must first choose a valid length for the password, at least 8 characters in length with no more than 128 characters chosen. The prompts will then continue to confirm if the user would like lowercase letters, uppercase letters, numbers, and/or special characters. Upon answering all prompts, a random password matching the users requested criteria will be displayed in the dash-outlined box. 
